@@ -1,46 +1,63 @@
-# Ferdi Durgun
-
-**Android & Flutter Developer · Türkiye**
-
-I build Android apps with Kotlin and Jetpack Compose, and cross-platform apps with Flutter. My work ranges from mapping earthquakes in Türkiye to bringing a theatre company’s repertoire online.
-
-**[Portfolio](https://ferdifolio.web.app/) · [Google Play apps](https://play.google.com/store/apps/developer?id=ferdidrgn) · [CV](https://ferdifolio.web.app/cv) · [LinkedIn](https://www.linkedin.com/in/ferdidrgn/) · [Email](mailto:ferdidurgun34@gmail.com)**
-
-<a href="https://ferdifolio.web.app/#projeler">
-  <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&amp;size=17&amp;duration=2200&amp;repeat=false&amp;color=8464BA&amp;width=440&amp;height=36&amp;lines=Explore+the+apps+in+your+browser+%E2%86%97" alt="Explore the apps in your browser" />
-</a>
-
-## Try my work
-
-- **[Explore the earthquake map](https://ferdifolio.web.app/#anlik-depremler)** — find the ten most recent earthquakes in Türkiye. The [Android source](https://github.com/ferdidrgn/AnlikDepremler) shows how I use Retrofit, coroutines and Hilt in an MVVM app.
-- **[Listen to a verse](https://ferdifolio.web.app/#huda-kuran)** — listen to a recitation alongside its Turkish translation, then open the same surah in Hüda Kuran.
-- **[Play the matching game](https://ferdifolio.web.app/#az-oyun)** — flip six cards and find the three pairs in the AZ Oyun browser demo.
-
-## Published apps
-
-| App | What you can do | Links |
-| --- | --- | --- |
-| **Anlık Depremler TR** | Explore recent earthquakes in Türkiye on a map or in a chronological list. | [Web](https://anlikdeprem.web.app/) · [Google Play](https://play.google.com/store/apps/details?id=com.ferdidrgn.anlikdepremler) |
-| **Hüda Kuran** | Read verses alongside translations and keep listening to recitations with the screen off. | [Web](https://hudaquran.web.app/) · [Google Play](https://play.google.com/store/apps/details?id=org.ferdidrgn.hudaquran) |
-| **TiyatRol** | Browse the theatre company’s repertoire and check the calendar for upcoming performances. | [Web](https://tiyatrol.web.app/) · [Google Play](https://play.google.com/store/apps/details?id=com.ferdidrgn.ticketapp) |
-| **Sağlam Spot** | Browse new and second-hand furniture by category, view product photos and contact the seller. | [Web](https://saglamspotcu.web.app/) · [Google Play](https://play.google.com/store/apps/details?id=com.ferdidrgn.saglamspot) |
-| **AZ Oyun** | Play short mini-games that test attention, reflexes and problem-solving. | [Web](https://azoyun.web.app/) · [Google Play](https://play.google.com/store/apps/details?id=com.ferdidrgn.azgame) |
-| **LIVA LIVE** | Join live video broadcasts and voice chat rooms. | [Website](https://livalive.com.tr/) · [Google Play](https://play.google.com/store/apps/details?id=com.livalive.app) |
-| **Ehliyet Soruları** | Prepare for the Turkish driving theory exam with topic questions and practice tests. | [Google Play](https://play.google.com/store/apps/details?id=net.furkatech.surusplus) |
-
-## Technologies I use
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/android/android-original.svg" width="36" height="36" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/jetpackcompose/jetpackcompose-original.svg" width="36" height="36" alt="Jetpack Compose" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/firebase/firebase-original.svg" width="36" height="36" alt="Firebase" />
-</p>
-
-- **Native Android** · Kotlin, Jetpack Compose, XML layouts, MVVM, Hilt, Koin, coroutines, Retrofit and Room
-- **Cross-platform** · Flutter, Dart, Riverpod, BLoC and Kotlin Multiplatform
-- **Data and delivery** · Firebase, Firestore, SQLite, Git, Postman and Google Play Console
-
-[Read my writing on Medium](https://medium.com/@ferdidrgn) · [Find me on DEV](https://dev.to/ferdidrgn)
+\
+![Github Page Visit Count]\(https\://komarev.com/ghpvc/?username=ferdidrgn)\
+\### Hi there, It's Ferdi 👋\
+\
+\<h3 align="center">A passionate Android developer from Turkey\</h3>\
+\
+\# Summary\
+My CV page: ...\
+\
+\# Skills\
+\- Languages: Kotlin, Python\
+\- Databases: SQL, SqlLite, MySQL\
+\- Version Control: Git, GitHub, Bitbucket\
+\- Agile Scrum: Jira\
+\- UI Design: Figma, Zeplin\
+\
+\
+\# ferdidurgun\
+\
+\- 🔭 I’m currently working on [AnlikDepremler]\(https\://github.com/ferdidrgn/AnlikDepremler/)\
+\
+\- 🌱 I’m currently learning \*\*Kotlin, Dart, Java, Python\*\*\
+\
+\- 💬 Ask me about \*\*Kotlin, Python, Android\*\*\
+\
+\- 📫 How to reach me \*\*ferdidurgun@hotmail.com\*\*\
+\
+\### Blogs posts\
+\<!-- BLOG-POST-LIST:START -->\
+\<!-- BLOG-POST-LIST:END -->\
+\
+\<h3 align="left">Connect with me:\</h3>\
+\<p align="left">\
+&#x20; \
+\<p align="left"> \<a href="https\://twitter.com/ferdidrgn\_" target="blank">\<img src="https\://img.shields.io/twitter/follow/ferdidrgn\_?logo=twitter&style=for-the-badge" alt="ferdidrgn\_" />\</a> \</p>\
+\<a href="https\://dev.to/ferdidrgn" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ferdidrgn" height="30" width="40" />\</a>\
+\<a href="https\://twitter.com/ferdidrgn\_" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferdidrgn\_" height="30" width="40" />\</a>\
+\<a href="https\://linkedin.com/in/https\://www\.linkedin.com/in/ferdidrgn" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https\://www\.linkedin.com/in/ferdidrgn" height="30" width="40" />\</a>\
+\<a href="https\://stackoverflow\.com/users/ferdi-durgun" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow\.svg" alt="ferdi-durgun" height="30" width="40" />\</a>\
+\<a href="https\://kaggle.com/ferdidurgun" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ferdidurgun" height="30" width="40" />\</a>\
+\<a href="https\://instagram.com/ferdidrgn" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferdidrgn" height="30" width="40" />\</a>\
+\<a href="https\://medium.com/@ferdidrgn" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ferdidrgn" height="30" width="40" />\</a>\
+\<a href="/https\://rss.app/team/ujpciez85q7a0b9e" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https\://rss.app/team/ujpciez85q7a0b9e" height="30" width="40" />\</a>\
+\</p>\
+\
+\<h3 align="left">Languages and Tools:\</h3>\
+\<p align="left"> \<a href="https\://developer.android.com" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> \</a> \<a href="https\://dart.dev" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> \</a> \<a href="https\://www\.figma.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> \</a> \<a href="https\://firebase.google.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> \</a> \<a href="https\://flutter.dev" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> \</a> \<a href="https\://git-scm.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> \</a> \<a href="https\://www\.java.com" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> \</a> \<a href="https\://kotlinlang.org" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> \</a> \<a href="https\://www\.microsoft.com/en-us/sql-server" target="\_blank" rel="noreferrer"> \<img src="https\://www\.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> \</a> \<a href="https\://www\.mysql.com/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> \</a> \<a href="https\://pandas.pydata.org/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> \</a> \<a href="https\://postman.com" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> \</a> \<a href="https\://www\.python.org" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> \</a> \<a href="https\://scikit-learn.org/" target="\_blank" rel="noreferrer"> \<img src="https\://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> \</a> \<a href="https\://seaborn.pydata.org/" target="\_blank" rel="noreferrer"> \<img src="https\://seaborn.pydata.org/\_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> \</a> \<a href="https\://www\.selenium.dev" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> \</a> \<a href="https\://www\.sqlite.org/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> \</a> \</p>\
+\
+\<h3 align="left">Support:\</h3>\
+\<p>\<a href="https\://banabicoffee.com/@ferdidrgn"> \<img align="left" src="https\://cdn.buymeacoffee.com/buttons/v2/default-yellow\.png" height="50" width="210" alt="https\://banabicoffee.com/@ferdidrgn" />\</a>\</p>\<br>\<br>\
+\
+\<p>  \</p>\
+\
+\<p align="left"> \<img src="https\://komarev.com/ghpvc/?username=ferdidrgn&label=Profile%20views&color=0e75b6&style=flat" alt="ferdidrgn" /> \</p>\
+\
+\<p align="left"> \<a href="https\://github.com/ryo-ma/github-profile-trophy">\<img src="https\://github-profile-trophy.vercel.app/?username=ferdidrgn" alt="ferdidrgn" />\</a> \</p>\
+\
+\<p>\<img align="left" src="https\://github-readme-stats.vercel.app/api/top-langs?username=ferdidrgn&show_icons=true&locale=en&layout=compact" alt="ferdidrgn" />\</p>\
+\
+\<p>&nbsp;\<img align="center" src="https\://github-readme-stats.vercel.app/api?username=ferdidrgn&show_icons=true&locale=en" alt="ferdidrgn" />\</p>\
+\
+\<p>\<img align="center" src="https\://github-readme-streak-stats.herokuapp.com/?user=ferdidrgn&" alt="ferdidrgn" />\</p>\
+&#x20;github readme yi güncelleyelim. sen benim neler yaptığımı biliyorsun. ayrıca en güncel logolar aniamsyonlar içerkiler ekelyleim. google a ai agent gönder araştır ve en kaliteli şeyleri ekelyeip geliştirelim. websitemi de ekle google playdeki app lerimin olduğu siteyi ekle ferdifotfolio.web.app den gerekli evrakları bilgileri de alabilirsin entegreli logic mantıklı iş yap ve sonucu bana ver ben de yapıştırıyım sorunsuz hale getir.
