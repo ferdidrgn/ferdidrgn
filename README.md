@@ -9,7 +9,17 @@
 <a href="mailto:ferdidurgun34@gmail.com"><img src="https://img.shields.io/badge/Email-513551?style=for-the-badge" alt="Email"/></a>
 </p>
 I’m Ferdi, an Android and Flutter developer in Türkiye. I build apps for things I do outside the IDE, too: follow earthquakes, find a play, or pass a phone around for one more game. My Android earthquake app is a look inside my Kotlin work, from Retrofit and coroutines to the MVVM screens.
-📱 The release shelf
+🧭 Pick your route
+If you’re here for…	Start here	Then try
+Android engineering	Explore the Anlık Depremler source	Compare a Retrofit response with the earthquake list in the web app.
+Theatre & design	Find a play in TiyatRol	Visit the performance calendar to see when it takes the stage.
+A quick game	Match six cards	Play AZ Oyun on Android.
+
+
+<details><summary><b>🇹🇷 Türkçe profil turu</b></summary>
+<p>Ben Ferdi. Kotlin ve Jetpack Compose ile Android, Flutter ile mobil ve web uygulamaları geliştiriyorum. Bir projemde Türkiye’deki depremleri harita üzerinde takip edebilir, diğerinde tiyatro topluluğunun oyunlarını ve takvimini inceleyebilirsin.</p>
+<p><a href="https://ferdifolio.web.app/">Portföyümü gez</a> · <a href="https://ferdifolio.web.app/cv">Özgeçmişimi oku</a> · <a href="https://play.google.com/store/apps/developer?id=ferdidrgn">Yedi uygulamayı gör</a></p>
+</details>📱 The release shelf
 Google Play apps	Combined download thresholds	Web apps	Playable card demo
 7	1,630+	5	3 pairs to find ↗
 
@@ -184,7 +194,15 @@ Flip left toggles the left lamp. Rotate right shifts the three lamps one place a
 </details>
 </details>
 More to play · Match six cards in the browser · Open AZ Oyun
-📊 GitHub activity
+🔭 Signal cabin
+The ferry pilot sees three lamps. Two blink twice as often as the third. Which one guides the boat home? Compare one cycle.
+Red	Amber	Green
+● ○ ● ○ ● ○ ● ○	● ○ ○ ○ ● ○ ○ ○	○ ● ○ ● ○ ● ○ ●
+
+
+<details><summary>🔴 Follow red</summary><p>Four flashes. That light marks the edge of the channel. Try again.</p></details>
+<details><summary>🟠 Follow amber</summary><p>⚓ Docked! Two flashes in eight beats. You have found the harbour signal.</p></details>
+<details><summary>🟢 Follow green</summary><p>Four flashes. You passed the pier. Try again.</p></details>📊 GitHub activity
 <p align="center">
 <a href="https://github.com/ferdidrgn?tab=followers"><img src="https://img.shields.io/github/followers/ferdidrgn?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7059AA" alt="GitHub followers"/></a>
 <a href="https://github.com/ferdidrgn?tab=repositories"><img src="https://img.shields.io/github/stars/ferdidrgn?style=for-the-badge&amp;logo=github&amp;label=Stars&amp;color=366F70" alt="Stars across my repositories"/></a>
@@ -208,7 +226,19 @@ Data & scripting	Firebase · Firestore · SQLite · MySQL · SQL Server · Pytho
 Design & delivery	Figma · Zeplin · Postman · Git · GitHub · Bitbucket · Jira · Play Console
 
 
-✍️ Writing & contact
+Inside my Android work
+<details><summary><b>📡 Anlık Depremler · Follow the data</b></summary>
+<p>The Android project uses Retrofit and OkHttp to fetch earthquake records, coroutines for asynchronous work, and an MVVM presentation layer. Hilt supplies dependencies. XML layouts and Data Binding connect the data to the screens.</p>
+<p><a href="https://github.com/ferdidrgn/AnlikDepremler">Browse the Android project</a> · <a href="https://anlikdeprem.web.app/">Explore the map</a></p>
+</details>
+<details><summary><b>🎧 Hüda Kuran · Try the listening flow</b></summary>
+<p>Open the verse demo, follow its Turkish meaning, then continue in the same surah. On Android you can choose a reciter and continue listening in the background.</p>
+<p><a href="https://ferdifolio.web.app/#huda-kuran">Listen to the sample</a> · <a href="https://hudaquran.web.app/surah/94">Open Surah 94</a></p>
+</details>
+<details><summary><b>🎭 TiyatRol · From a play to its performance date</b></summary>
+<p>Browse the repertoire, open a play and check the public performance calendar. It is a different way to explore the same theatre company presented in the Android app.</p>
+<p><a href="https://ferdifolio.web.app/#tiyatrol">Browse the repertoire</a> · <a href="https://tiyatrol.web.app/takvim">Open the calendar</a></p>
+</details>✍️ Writing & contact
 Medium · DEV Community · LinkedIn · X · Kaggle · Instagram · Email
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
