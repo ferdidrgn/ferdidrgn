@@ -1,63 +1,215 @@
-\
-![Github Page Visit Count]\(https\://komarev.com/ghpvc/?username=ferdidrgn)\
-\### Hi there, It's Ferdi 👋\
-\
-\<h3 align="center">A passionate Android developer from Turkey\</h3>\
-\
-\# Summary\
-My CV page: ...\
-\
-\# Skills\
-\- Languages: Kotlin, Python\
-\- Databases: SQL, SqlLite, MySQL\
-\- Version Control: Git, GitHub, Bitbucket\
-\- Agile Scrum: Jira\
-\- UI Design: Figma, Zeplin\
-\
-\
-\# ferdidurgun\
-\
-\- 🔭 I’m currently working on [AnlikDepremler]\(https\://github.com/ferdidrgn/AnlikDepremler/)\
-\
-\- 🌱 I’m currently learning \*\*Kotlin, Dart, Java, Python\*\*\
-\
-\- 💬 Ask me about \*\*Kotlin, Python, Android\*\*\
-\
-\- 📫 How to reach me \*\*ferdidurgun@hotmail.com\*\*\
-\
-\### Blogs posts\
-\<!-- BLOG-POST-LIST:START -->\
-\<!-- BLOG-POST-LIST:END -->\
-\
-\<h3 align="left">Connect with me:\</h3>\
-\<p align="left">\
-&#x20; \
-\<p align="left"> \<a href="https\://twitter.com/ferdidrgn\_" target="blank">\<img src="https\://img.shields.io/twitter/follow/ferdidrgn\_?logo=twitter&style=for-the-badge" alt="ferdidrgn\_" />\</a> \</p>\
-\<a href="https\://dev.to/ferdidrgn" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ferdidrgn" height="30" width="40" />\</a>\
-\<a href="https\://twitter.com/ferdidrgn\_" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferdidrgn\_" height="30" width="40" />\</a>\
-\<a href="https\://linkedin.com/in/https\://www\.linkedin.com/in/ferdidrgn" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https\://www\.linkedin.com/in/ferdidrgn" height="30" width="40" />\</a>\
-\<a href="https\://stackoverflow\.com/users/ferdi-durgun" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow\.svg" alt="ferdi-durgun" height="30" width="40" />\</a>\
-\<a href="https\://kaggle.com/ferdidurgun" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ferdidurgun" height="30" width="40" />\</a>\
-\<a href="https\://instagram.com/ferdidrgn" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferdidrgn" height="30" width="40" />\</a>\
-\<a href="https\://medium.com/@ferdidrgn" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ferdidrgn" height="30" width="40" />\</a>\
-\<a href="/https\://rss.app/team/ujpciez85q7a0b9e" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https\://rss.app/team/ujpciez85q7a0b9e" height="30" width="40" />\</a>\
-\</p>\
-\
-\<h3 align="left">Languages and Tools:\</h3>\
-\<p align="left"> \<a href="https\://developer.android.com" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> \</a> \<a href="https\://dart.dev" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> \</a> \<a href="https\://www\.figma.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> \</a> \<a href="https\://firebase.google.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> \</a> \<a href="https\://flutter.dev" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> \</a> \<a href="https\://git-scm.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> \</a> \<a href="https\://www\.java.com" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> \</a> \<a href="https\://kotlinlang.org" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> \</a> \<a href="https\://www\.microsoft.com/en-us/sql-server" target="\_blank" rel="noreferrer"> \<img src="https\://www\.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> \</a> \<a href="https\://www\.mysql.com/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> \</a> \<a href="https\://pandas.pydata.org/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> \</a> \<a href="https\://postman.com" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> \</a> \<a href="https\://www\.python.org" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> \</a> \<a href="https\://scikit-learn.org/" target="\_blank" rel="noreferrer"> \<img src="https\://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> \</a> \<a href="https\://seaborn.pydata.org/" target="\_blank" rel="noreferrer"> \<img src="https\://seaborn.pydata.org/\_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> \</a> \<a href="https\://www\.selenium.dev" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> \</a> \<a href="https\://www\.sqlite.org/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> \</a> \</p>\
-\
-\<h3 align="left">Support:\</h3>\
-\<p>\<a href="https\://banabicoffee.com/@ferdidrgn"> \<img align="left" src="https\://cdn.buymeacoffee.com/buttons/v2/default-yellow\.png" height="50" width="210" alt="https\://banabicoffee.com/@ferdidrgn" />\</a>\</p>\<br>\<br>\
-\
-\<p>  \</p>\
-\
-\<p align="left"> \<img src="https\://komarev.com/ghpvc/?username=ferdidrgn&label=Profile%20views&color=0e75b6&style=flat" alt="ferdidrgn" /> \</p>\
-\
-\<p align="left"> \<a href="https\://github.com/ryo-ma/github-profile-trophy">\<img src="https\://github-profile-trophy.vercel.app/?username=ferdidrgn" alt="ferdidrgn" />\</a> \</p>\
-\
-\<p>\<img align="left" src="https\://github-readme-stats.vercel.app/api/top-langs?username=ferdidrgn&show_icons=true&locale=en&layout=compact" alt="ferdidrgn" />\</p>\
-\
-\<p>&nbsp;\<img align="center" src="https\://github-readme-stats.vercel.app/api?username=ferdidrgn&show_icons=true&locale=en" alt="ferdidrgn" />\</p>\
-\
-\<p>\<img align="center" src="https\://github-readme-streak-stats.herokuapp.com/?user=ferdidrgn&" alt="ferdidrgn" />\</p>\
-&#x20;github readme yi güncelleyelim. sen benim neler yaptığımı biliyorsun. ayrıca en güncel logolar aniamsyonlar içerkiler ekelyleim. google a ai agent gönder araştır ve en kaliteli şeyleri ekelyeip geliştirelim. websitemi de ekle google playdeki app lerimin olduğu siteyi ekle ferdifotfolio.web.app den gerekli evrakları bilgileri de alabilirsin entegreli logic mantıklı iş yap ve sonucu bana ver ben de yapıştırıyım sorunsuz hale getir.
+<a href="https://ferdifolio.web.app/"><img src="https://capsule-render.vercel.app/api?type=waving&amp;height=215&amp;text=Ferdi%20Durgun&amp;fontColor=FFFFFF&amp;fontSize=64&amp;fontAlignY=39&amp;desc=ANDROID%20%2F%20FLUTTER%20%2F%20ISTANBUL&amp;descAlignY=62&amp;descSize=17&amp;animation=fadeIn&amp;color=0:1C163C,55:5B3E95,100:137E79" alt="Ferdi Durgun · Android and Flutter developer in Istanbul" width="100%"/></a>
+<p align="center">
+<a href="https://ferdifolio.web.app/#projeler"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2200&amp;pause=950&amp;color=9274CF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=38&amp;lines=Map+an+earthquake.;Listen+to+a+verse.;Find+the+matching+pair." alt="Map an earthquake · Listen to a verse · Find the matching pair"/></a>
+</p><p align="center">
+<a href="https://ferdifolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-514078?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://play.google.com/store/apps/developer?id=ferdidrgn"><img src="https://img.shields.io/badge/Google%20Play-146656?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Google Play"/></a>
+<a href="https://ferdifolio.web.app/cv"><img src="https://img.shields.io/badge/Read%20my%20CV-55305E?style=for-the-badge" alt="Read my CV"/></a>
+<a href="https://www.linkedin.com/in/ferdidrgn/"><img src="https://img.shields.io/badge/LinkedIn-245078?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="mailto:ferdidurgun34@gmail.com"><img src="https://img.shields.io/badge/Email-513551?style=for-the-badge" alt="Email"/></a>
+</p>
+I’m Ferdi, an Android and Flutter developer in Türkiye. I build apps for things I do outside the IDE, too: follow earthquakes, find a play, or pass a phone around for one more game. My Android earthquake app is a look inside my Kotlin work, from Retrofit and coroutines to the MVVM screens.
+📱 The release shelf
+Google Play apps	Combined download thresholds	Web apps	Playable card demo
+7	1,630+	5	3 pairs to find ↗
+
+
+Google Play snapshot · 21 November 2026. The total adds the public lower bounds for the seven listings.
+App	On Google Play	Inside	Explore
+<a href="https://play.google.com/store/apps/details?id=com.ferdidrgn.azgame"><img src="https://play-lh.googleusercontent.com/kdEEXIFsIOOWHf-SJkSSPekRZWbUIYzPPitKqrOEsfSHplZAAgeTVuXce2ccKyQRS20lrC3BqRCimj8kr9cBrVU=w240-h480" alt="" width="34"/></a> AZ Oyun	1K+	Play short reflex, attention and puzzle games.	Web · Play
+<a href="https://play.google.com/store/apps/details?id=com.ferdidrgn.anlikdepremler"><img src="https://play-lh.googleusercontent.com/mGVKaDsPgJBo2cZ1pe7bHnigy8o8xERv9XHCzPNQz5R_DQUCVzL4WeyfPRF2YMrPPWNH4NY2QVXb2ur3Gauhrg=w240-h480" alt="" width="34"/></a> Anlık Depremler TR	500+	Explore Türkiye’s earthquake records on a map and in an event list.	Web · Play
+<a href="https://play.google.com/store/apps/details?id=com.livalive.app"><img src="https://play-lh.googleusercontent.com/7z6GzTyLwYWy-EPgHxbjUUSL2wnL1XlHuOvdMaNoXqO85mDJcfrw_iJXNnUJ3cObUH9bvI67JcLp_7Fa2Q2K_yY=w240-h480" alt="" width="34"/></a> LIVA LIVE	100+	Join a live video broadcast or drop into a voice chat room.	Site · Play
+<a href="https://play.google.com/store/apps/details?id=com.ferdidrgn.ticketapp"><img src="https://play-lh.googleusercontent.com/lDopFF7g1OqfliZN2mbF5IR2E23GewCcnJgBRmoNCKaWmPwWYsX3ovLFFtLto7rk3XhArR-rH3_SkjjJBuwjqg=w240-h480" alt="" width="34"/></a> TiyatRol	10+	Browse a theatre company’s repertoire and check its performance calendar.	Web · Play
+<a href="https://play.google.com/store/apps/details?id=com.ferdidrgn.saglamspot"><img src="https://play-lh.googleusercontent.com/9UEokEo6nqZa6DQwZ0jZjXFa8Kcqhfs-0sgHsWmDwAQsWuyXLLokmtDV5Abd5hXhGP8F3WE4VELDIInpJU8H4g=w240-h480" alt="" width="34"/></a> Sağlam Spot	10+	Browse new and second-hand furniture, inspect photos and contact the seller.	Web · Play
+<a href="https://play.google.com/store/apps/details?id=org.ferdidrgn.hudaquran"><img src="https://play-lh.googleusercontent.com/ozp9wKqaHoSuUn8L-Ia9p0jBveSNbxsLP3i86o6eYj1YAvlzMQM2HyPOuF-CoanxLnb2fduQ0mYWm3i2r_wIvow=w240-h480" alt="" width="34"/></a> Hüda Kuran	5+	Read a translation beside the verse, choose a reciter and listen with the screen off.	Web · Play
+<a href="https://play.google.com/store/apps/details?id=net.furkatech.surusplus"><img src="https://play-lh.googleusercontent.com/h5FdX3Db0HCaLCWcelUUbV95eM3-89Y61CBLgX_VRx_VWKgldoUZb43hjzzDW6cRW9vDSOO9xsrz6AexPpI0qoQ=w240-h480" alt="" width="34"/></a> Ehliyet Soruları	5+	Study for the Turkish driving theory exam with topic questions and practice tests.	Play
+
+
+Inside the apps
+<table><tr>
+<td align="center" width="33%"><a href="https://ferdifolio.web.app/#anlik-depremler"><img src="https://play-lh.googleusercontent.com/JUf1igKHpTr-5mf-C9sQHM7gJ2-dELb8KJZCjFd7KFOds8HlxQE0JUR4lV7CCNxiQ0PltXVBg3lqhoFLOPZ3=w526-h296" alt="Earthquake map" width="145"/></a><br/><a href="https://ferdifolio.web.app/#anlik-depremler"><b>Earthquake map ↗</b></a></td>
+<td align="center" width="33%"><a href="https://ferdifolio.web.app/#az-oyun"><img src="https://play-lh.googleusercontent.com/9AssoB_nieNhjgy3H8qdAnMuo9cXERINvB1J60AZjnHIekK_PVgLeQPcylJllRAtJKMB9Ozb2uc-SrjH10VMlA=w526-h296" alt="Match the cards" width="145"/></a><br/><a href="https://ferdifolio.web.app/#az-oyun"><b>Match the cards ↗</b></a></td>
+<td align="center" width="33%"><a href="https://ferdifolio.web.app/#tiyatrol"><img src="https://play-lh.googleusercontent.com/IqWv_TJqjOuOKxinU0DG1OaPaTbedSV3tcJqSxnO3ZHg94REcFu4YlxH1ysGemDM-PadaKuW_xlMuh6Sj2Sd=w526-h296" alt="Theatre repertoire" width="145"/></a><br/><a href="https://ferdifolio.web.app/#tiyatrol"><b>Theatre repertoire ↗</b></a></td>
+</tr></table>🎮 Profile arcade
+Backstage Blackout · The curtain goes up in three cues. Only the middle light is on. Get all three lights on before the show starts.
+
+Console ○ ● ○ → Goal ● ● ●　·　● on　○ off
+
+Flip left toggles the left lamp. Rotate right shifts the three lamps one place and wraps the last around. Invert all swaps on and off. Open one cue at a time. Close a branch to undo it.
+<details>
+<summary><b>🕹️ Start game</b></summary>
+<details><summary>Flip left</summary>
+<p><code>● ● ○</code> · Cue 1/3</p>
+<details><summary>Flip left</summary>
+<p><code>○ ● ○</code> · Cue 2/3</p>
+<details><summary>Flip left</summary>
+<p><code>● ● ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>○ ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Invert all</summary>
+<p><code>● ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>○ ● ●</code> · Cue 2/3</p>
+<details><summary>Flip left</summary>
+<p><code>● ● ●</code> · Cue 3/3</p>
+<p>🎭 <b>House lights up. Curtain call!</b> You found the three-cue sequence.</p>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>● ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Invert all</summary>
+<p><code>● ○ ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+</details>
+<details><summary>Invert all</summary>
+<p><code>○ ○ ●</code> · Cue 2/3</p>
+<details><summary>Flip left</summary>
+<p><code>● ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>● ○ ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Invert all</summary>
+<p><code>● ● ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+</details>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>○ ○ ●</code> · Cue 1/3</p>
+<details><summary>Flip left</summary>
+<p><code>● ○ ●</code> · Cue 2/3</p>
+<details><summary>Flip left</summary>
+<p><code>○ ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>● ● ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Invert all</summary>
+<p><code>○ ● ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>● ○ ○</code> · Cue 2/3</p>
+<details><summary>Flip left</summary>
+<p><code>○ ○ ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>○ ● ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Invert all</summary>
+<p><code>○ ● ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+</details>
+<details><summary>Invert all</summary>
+<p><code>● ● ○</code> · Cue 2/3</p>
+<details><summary>Flip left</summary>
+<p><code>○ ● ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>○ ● ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Invert all</summary>
+<p><code>○ ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+</details>
+</details>
+<details><summary>Invert all</summary>
+<p><code>● ○ ●</code> · Cue 1/3</p>
+<details><summary>Flip left</summary>
+<p><code>○ ○ ●</code> · Cue 2/3</p>
+<details><summary>Flip left</summary>
+<p><code>● ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>● ○ ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Invert all</summary>
+<p><code>● ● ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>● ● ○</code> · Cue 2/3</p>
+<details><summary>Flip left</summary>
+<p><code>○ ● ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>○ ● ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Invert all</summary>
+<p><code>○ ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+</details>
+<details><summary>Invert all</summary>
+<p><code>○ ● ○</code> · Cue 2/3</p>
+<details><summary>Flip left</summary>
+<p><code>● ● ○</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Rotate right</summary>
+<p><code>○ ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+<details><summary>Invert all</summary>
+<p><code>● ○ ●</code> · Cue 3/3</p>
+<p>The stage is still dark. Close this cue and try another.</p>
+</details>
+</details>
+</details>
+</details>
+More to play · Match six cards in the browser · Open AZ Oyun
+📊 GitHub activity
+<p align="center">
+<a href="https://github.com/ferdidrgn?tab=followers"><img src="https://img.shields.io/github/followers/ferdidrgn?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=7059AA" alt="GitHub followers"/></a>
+<a href="https://github.com/ferdidrgn?tab=repositories"><img src="https://img.shields.io/github/stars/ferdidrgn?style=for-the-badge&amp;logo=github&amp;label=Stars&amp;color=366F70" alt="Stars across my repositories"/></a>
+<a href="https://github.com/ferdidrgn"><img src="https://komarev.com/ghpvc/?username=ferdidrgn&amp;label=Profile%20views&amp;color=7059aa&amp;style=for-the-badge" alt="Profile view counter"/></a>
+</p><p align="center">
+<a href="https://github.com/ferdidrgn"><img src="https://streak-stats.demolab.com/?user=ferdidrgn&amp;theme=tokyonight&amp;hide_border=true" alt="Total contributions, current streak and longest streak" width="80%"/></a>
+</p><a href="https://github.com/ferdidrgn"><img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ferdidrgn&amp;bg_color=171528&amp;color=cec3ee&amp;line=9c88ef&amp;point=74e7c8&amp;area=true&amp;hide_border=true&amp;custom_title=Contributions%20in%20the%20last%2031%20days" alt="GitHub activity over the last 31 days" width="100%"/></a>
+<p align="center">
+<a href="https://github.com/ferdidrgn?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferdidrgn&amp;theme=tokyonight" alt="GitHub account statistics" width="48%"/></a>
+<a href="https://github.com/ferdidrgn?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferdidrgn&amp;theme=tokyonight" alt="Top languages by repository" width="48%"/></a>
+</p><details>
+<summary><b>🏆 Open the GitHub trophy cabinet</b></summary>
+<p align="center">
+<a href="https://github.com/ferdidrgn"><img src="https://github-profile-trophy.vercel.app/?username=ferdidrgn&amp;theme=tokyonight&amp;column=4&amp;margin-w=8&amp;margin-h=8&amp;no-frame=true" alt="GitHub trophies" width="90%"/></a>
+</p>
+</details>🛠️ My workbench
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/android/android-original.svg" alt="Android" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/dart/dart-original.svg" alt="Dart" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/flutter/flutter-original.svg" alt="Flutter" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/firebase/firebase-original.svg" alt="Firebase" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" alt="Python" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg" alt="Java" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/sqlite/sqlite-original.svg" alt="SQLite" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" alt="Git" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/></p>Area	What I use
+Native Android	Kotlin · Java · Jetpack Compose · XML layouts · MVVM · Hilt · Koin · coroutines · Retrofit · Room
+Cross-platform	Flutter · Dart · Riverpod · BLoC · Kotlin Multiplatform
+Data & scripting	Firebase · Firestore · SQLite · MySQL · SQL Server · Python · pandas
+Design & delivery	Figma · Zeplin · Postman · Git · GitHub · Bitbucket · Jira · Play Console
+
+
+✍️ Writing & contact
+Medium · DEV Community · LinkedIn · X · Kaggle · Instagram · Email
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<a href="https://banabicoffee.com/@ferdidrgn"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-7C4F32?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=white" alt="Buy me a coffee"/></a>
